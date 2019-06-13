@@ -1,0 +1,45 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"uglifyFileName": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.4.0",
+	"appid": "wx075e24df091e3e2c",
+	"projectname": "litemall-wx",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 38,
+			"list": [
+				{
+					"id": -1,
+					"name": "菜单首页",
+					"pathName": "pages/foodshop/foodshop",
+					"scene": null
+				}
+			]
+		}
+	}
+}
